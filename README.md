@@ -1,10 +1,10 @@
 # 42-Cursus-Rank02-Fract-ol
 Fract-ol for 125% as of December 2024.
 
-Requires: cmake, glfw (installed with brew - thus you need brew too. 42 adapted homebrew exists) 
+Requires: cmake, glfw (installed with brew - thus you need brew too. 42 adapted homebrew for non-admin installs exists) 
 
 Inspired by https://github.com/suspectedoceano/mlx and his other video on fractol itself (he wrote on linux VM'd on a macbook). 
-My minilibx from a .tgz refused to untar properly, so i ended up using MLX42 from Codam. Same essense but completely different function calls \ return types. 
+My minilibx from a .tgz refused to untar properly, so i ended up using MLX42 from Codam (42 Amsterdam). Same essense but completely different function calls \ return types. Main point of this and sibling projects (so_long\FdF) is after all importing a side graphical library and making it work, not importing a specific version.
 
 Upside of MLX42 is it's somewhat maintained, downside for someone who might be reading this a year or two later - MLX42 might evolve away from working with my code directly, you might have to update the code accordingly. 
 
